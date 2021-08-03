@@ -3,12 +3,17 @@
         <title>所有文章 - 宇的回收站</title>
         <link>https://toserhy.github.io/posts/</link>
         <description>所有文章 | 宇的回收站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 29 Jul 2021 18:01:59 &#43;0800</lastBuildDate><atom:link href="https://toserhy.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>我的第一篇文章</title>
-    <link>https://toserhy.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
-    <pubDate>Thu, 29 Jul 2021 18:01:59 &#43;0800</pubDate><author>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 03 Aug 2021 19:28:02 &#43;0800</lastBuildDate><atom:link href="https://toserhy.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>关于本站</title>
+    <link>https://toserhy.github.io/posts/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</link>
+    <pubDate>Tue, 03 Aug 2021 19:28:02 &#43;0800</pubDate><author>
         <name>作者</name>
-    </author><guid>https://toserhy.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
-    <description><![CDATA[]]></description>
+    </author><guid>https://toserhy.github.io/posts/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</guid>
+    <description><![CDATA[##博客的主要内容 主要包括：
+1.学习新知识的记录
+2.生活记录以及一些想法
+##为什么要建立这个博客 首先就是督促和鼓励自己不断进步和学习。目前签的单位不理想，将来一定是要跳出这个圈子的，这就需要不断学习积累做出改变，而不是一直躲在这个自己并不喜欢的环境里混吃等死，等到将来某一天被生活绑架无法改变的时候后悔。
+其次就是当一个日记本了。回想自己的大学四年，只能依靠一些久远的说说和朋友圈才能模糊的想起自己大概在某段时间做了什么，仿佛这四年不存在一样，这种大段时间的短缺或者架空太可怕了，所以通过这个博客多记录以后的生活，也能捎带练练文笔。
+不立flag了，少扯淡多做事！:punch:]]></description>
 </item></channel>
 </rss>
